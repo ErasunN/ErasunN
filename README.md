@@ -2,7 +2,7 @@
 Nicolas</a></h1>
 <h2 align="center">A passionate Web developer from Argentina &#127462;&#127479</h3>
 
-<h3 align="center">Let me tell you about me. I'm Nicolas Erasun, a fullstack developer from a little town here in Argentina. Started my studies on 2019 and started working at the end of 2020. <br/> Highly passionate about frontend, web design, reading and lerning variety of things.</h4>
+<h4 align="center">Let me tell you about me. I'm Nicolas Erasun, a fullstack developer from a little town here in Argentina. Started my studies on 2019 and started working at the end of 2020. <br/> Highly passionate about frontend, web design, reading and lerning variety of things.</h4>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -10,7 +10,7 @@ Nicolas</a></h1>
 
 - 🔭 I’m currently working in <a href="https://www.linkedin.com/company/chapterwise-io/" target="blank">Chapterwise</a>
 
-- 🌱 I’m currently Working on Web development(React - Node)
+- 🌱 I’m currently Working on Web development (React - Node)
 
 - 🌱 I’m currently learning <a href="https://docs.astro.build/en/getting-started/">Astro</a>
 
